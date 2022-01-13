@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/monitor.jpg</file>
+        <file>icon/monitor2.jpg</file>
+        <file>icon/quit.jpg</file>
+    </qresource>
+</RCC>
