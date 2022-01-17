@@ -9,3 +9,6 @@
 # Data frame
 * package 1 : | length(1 byte) | CPU usage (1 byte) | memory usage(1 byte) | memory size (2 bytes) |
 * package 2 : | length(1 byte) | disk1 symbol (1 byte) | disk1 usage(1 byte) | disk1 size (2 bytes) | ...
+# Thanks
+* [libusb](https://github.com/libusb/libusb)
+* [JQCPUMonitor](https://github.com/188080501/JQCPUMonitor)

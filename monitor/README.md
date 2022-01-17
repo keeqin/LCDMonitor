@@ -6,3 +6,5 @@ This is a stm32l475VE project.
 
 # CAUTION
 FATFS and SDCard is not in use.
+# Thanks
+* [lvgl](https://github.com/lvgl/lvgl)
